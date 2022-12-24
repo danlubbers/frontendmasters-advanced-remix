@@ -156,3 +156,4 @@ Thank you! https://kcd.im/remix-advanced-ws-feedback
 [issue]: https://github.com/FrontendMasters/advanced-remix/issues/new
 <!-- prettier-ignore-end -->
 # -FrontendMaster-remix-advanced
+# frontendmasters-advanced-remix
